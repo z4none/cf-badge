@@ -1,3 +1,4 @@
 name = "cf-badge"
 main = "src/index.js"
 compatibility_date = "2022-08-13"
+type = "JavaScript"
